@@ -1,5 +1,5 @@
 # nlwEsportsProject
-Application using React Js, Typescript, Node Js and Reactive Native to connect people that want a partner to play games on Discord.
+:video_game: Application using React Js, Typescript, Node Js and Reactive Native to connect people that want a partner to play games on Discord.
 
 <h3>Web Version:</h3>
 
